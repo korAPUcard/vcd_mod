@@ -1,4 +1,4 @@
-# Viscera Cleanup Detain in Minecraft
+# Viscera Cleanup Detail in Minecraft
 ### Minecraft MOD Project #3
 
 **MOD Version**: 0.0.1 *(Work In Progress, Developer test only version)*   
