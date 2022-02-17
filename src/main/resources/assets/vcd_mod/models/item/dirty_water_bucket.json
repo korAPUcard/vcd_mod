@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vcd_mod:items/dirty_water_bucket"
+  }
+}

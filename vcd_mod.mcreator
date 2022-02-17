@@ -1,0 +1,62 @@
+{
+  "mod_elements": [
+    {
+      "name": "VisceraCleanupDetailMod",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "viscera_cleanup_detail_mod"
+    },
+    {
+      "name": "DirtyWater",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_water",
+      "metadata": {
+        "gb": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ko_kr": {
+      "itemGroup.tabviscera_cleanup_detail_mod": "비세라 클린업 디테일",
+      "fluid.vcd_mod.dirty_water": "Dirty Water",
+      "block.vcd_mod.dirty_water": "Dirty Water",
+      "item.vcd_mod.dirty_water_bucket": "Dirty Water Bucket"
+    },
+    "en_us": {
+      "itemGroup.tabviscera_cleanup_detail_mod": "Viscera Cleanup Detail",
+      "fluid.vcd_mod.dirty_water": "Dirty Water",
+      "block.vcd_mod.dirty_water": "Dirty Water",
+      "item.vcd_mod.dirty_water_bucket": "Dirty Water Bucket"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "vcd_mod",
+    "modName": "Viscera Cleanup Detail Mod",
+    "version": "1.0.0",
+    "author": "KOR_APUcard, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.apucsw.vcd_mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
