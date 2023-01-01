@@ -9,6 +9,9 @@
 **Number of team members**: Single *(Currently no member)*   
 *Not required more members in this project.*
 
+#### NOTE: Canceled Mod Project
+> **This mod project was canceled and discarded, no longer workings in progress.**
+
 -----
 
 ### Description
